@@ -23,7 +23,7 @@ $(() => {
     const elAry = [];
     let newEl;
     for (let d of data) {
-      newEl = $(`<tr><td>${d.attributes.name}</td><td>${d.attributes.itemType}</td><td>${d.attributes.quality}</td><td>${d.attributes.recordCount}</td></tr>`);
+      newEl = $(`<tr><td>${d.attributes.name}</td><td>${d.attributes.itemType}</td><td>${d.quality}</td><td>${d.attributes.recordCount}</td></tr>`);
       elAry.push(newEl);
       target.append(elAry);
     }
