@@ -19,5 +19,5 @@
 1. Note that the table loads but the more button doesn't work.
 1. Fix it!
 1. Checkout the debugging-5 branch: `git checkout -b debugging-5 origin/debugging-5`
-1. Note that the quality column contains undefined.
+1. Note that the quality column contains `undefined`.
 1. Fix it!
