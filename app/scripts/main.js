@@ -19,7 +19,7 @@ $(() => {
   }
 
   function handleResponse(data) {
-    const target = $('table tbody').empty();
+    const target = $('table body').empty();
     const elAry = [];
     let newEl;
     for (let d of data) {
