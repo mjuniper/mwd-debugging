@@ -29,5 +29,5 @@ $(() => {
     }
   }
 
-  $('#more').on('click', nextPage);
+  $('#next').on('click', nextPage);
 });
