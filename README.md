@@ -5,6 +5,7 @@
 1. `git pull origin`
 1. `npm i`
 1. `bower install`
+2. run `gulp serve` to start the local development environment.
 1. Try it out - when the page loads, you should see a table containing datasets with a more button below it that loads another page of datasets.
 1. Peruse the code to familiarize yourself with it.
 1. Checkout the debugging-1 branch: `git checkout -b debugging-1 origin/debugging-1`
