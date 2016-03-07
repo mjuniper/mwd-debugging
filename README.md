@@ -1,6 +1,7 @@
 # mwd-debugging
 
-1. Clone the repo
+1. Clone the repo `git clone https://github.com/mjuniper/mwd-debugging.git`
+1. `cd mwd-debugging` 
 1. `git pull origin`
 1. `npm i`
 1. `bower install`
