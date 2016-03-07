@@ -1,5 +1,5 @@
 $(() => {
-  const API = '//opendata.arcgis.com/api/v2';
+  const API = 'https://opendata.arcgis.comapi/v2';
   let page = 0;
   let size = 10;
 
